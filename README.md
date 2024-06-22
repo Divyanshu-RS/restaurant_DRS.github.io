@@ -1,4 +1,6 @@
 # restaurant-website-DRS
+# <https://divyanshu-rs.github.io/restaurant_DRS.github.io/>
+You may view the live version of this website by clicking the aforementioned link.
 
 Created a Restaurant Website using HTML, CSS and JS. This is a Simple Restaurant Website with a main home page, types of food available, a food menu, customer reviews, and a contact form section on the restaurant website.
 
